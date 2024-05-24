@@ -13,11 +13,11 @@ class ErfgoedTypes extends AbstractDataType
 
     public function getName()
     {
-        return 'valuesuggest:thesaurus-onroerend-erfgoed-vlaanderen';
+        return 'valuesuggest:thesaurusonroerenderfgoed:erfgoedtypes';
     }
 
     public function getLabel()
     {
-        return 'Thesaurus Onroerend Erfgoed Vlaanderen'; // @translate
+        return 'Thesaurus Onroerend Erfgoed Vlaanderen: Erfgoedtypes'; // @translate
     }
 }

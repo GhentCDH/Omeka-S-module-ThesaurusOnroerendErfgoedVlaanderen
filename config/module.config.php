@@ -5,7 +5,7 @@ namespace ThesaurusOnroerendErfgoedVlaanderen;
 return [
     'data_types' => [
         'factories' => [
-            'valuesuggest:hesaurus-onroerend-erfgoed-vlaanderen' => Service\ErfgoedTypesDataTypeFactory::class,
+            'valuesuggest:thesaurusonroerenderfgoed:erfgoedtypes' => Service\ErfgoedTypesDataTypeFactory::class,
         ],
     ],
 ];
